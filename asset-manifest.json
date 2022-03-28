@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mnyoki.github.io/csb-9d2tmb/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mnyoki.github.io/csb-9d2tmb/static/js/main.1c342e9c.chunk.js",
+    "main.js.map": "https://mnyoki.github.io/csb-9d2tmb/static/js/main.1c342e9c.chunk.js.map",
+    "runtime-main.js": "https://mnyoki.github.io/csb-9d2tmb/static/js/runtime-main.55f2fd63.js",
+    "runtime-main.js.map": "https://mnyoki.github.io/csb-9d2tmb/static/js/runtime-main.55f2fd63.js.map",
+    "static/js/2.c65d5156.chunk.js": "https://mnyoki.github.io/csb-9d2tmb/static/js/2.c65d5156.chunk.js",
+    "static/js/2.c65d5156.chunk.js.map": "https://mnyoki.github.io/csb-9d2tmb/static/js/2.c65d5156.chunk.js.map",
+    "index.html": "https://mnyoki.github.io/csb-9d2tmb/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mnyoki.github.io/csb-9d2tmb/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c65d5156.chunk.js.LICENSE.txt": "https://mnyoki.github.io/csb-9d2tmb/static/js/2.c65d5156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55f2fd63.js",
+    "static/js/2.c65d5156.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1c342e9c.chunk.js"
+  ]
+}
